@@ -1,0 +1,20 @@
+body {
+    background: #8bf7d6;
+    color: #fff;
+}
+
+img {
+    width: 1879px;
+}
+
+body{
+    position: relative;
+    min-height: 100vh;
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
